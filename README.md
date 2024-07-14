@@ -15,7 +15,7 @@ Welcome to my journey through the **Revise with Arsh** challenge! This repositor
 
 | 🗓️ Start Date | 🏁 End Date | 🎯 Daily Goal |
 |:--------------:|:-----------:|:-------------:|
-| July 14, 2024  | Sept 11, 2024 | 4-5 Questions |
+| July 15, 2024  | Sept 11, 2024 | 4-5 Questions |
 
 ## 🌟 Key Features
 
