@@ -1,0 +1,22 @@
+class solution{
+public:
+	int subarray(vector<int>&nums,int k){
+		int count=0,sum=0;
+		unordered_map<int,int>res;
+		res[0]=1;
+		for(auto nums:nums){
+			sum+=num;
+			int mod=sum%k;
+			if(mod<0){
+				mod=mod+k;
+			}
+			if(res.find(mod)!=res.end(mod)){
+				count=count+res[mod];
+				res[mod]=res[mod]+1;
+			}else{
+				res[mod=]1;
+			}
+		}
+		return count;
+	}
+};
