@@ -1,0 +1,17 @@
+class solution{
+public:
+	string longestcommon(vector<string>&strs){
+		sort(strs.begin(),strs.end());
+		int n=strs.size();
+		string res="",s=strs[0],m=strs[n-1];
+		for(int i=0;i<s.size();i++){
+			if(s[i]!=m[i]{
+				res=res+s[i];
+			}else{
+				break;
+			}
+		}
+		return res;
+	}
+};
+			
