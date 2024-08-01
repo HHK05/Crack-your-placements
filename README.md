@@ -1,5 +1,5 @@
 # Crack-your-placements
-# 🚀Arsh - 45 Day DSA Challenge
+# 🚀Arsh - 45 - 60 Day DSA Challenge
 
 Welcome to my journey through the **Revise with Arsh** challenge! This repository tracks my progress as I tackle a curated set of DSA questions designed to prepare for interviews at top tech companies.
 
